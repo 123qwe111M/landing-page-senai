@@ -65,9 +65,6 @@ nav {
 
 }
 
-
-
-
 .button{
     color:var(--color-white);
     background-color:#205375;
@@ -79,6 +76,7 @@ nav {
     font-size: 23px;
     width: fit-content; 
 }
+
 .lista{
    display: flex ; 
    padding: 0;
@@ -89,9 +87,10 @@ nav {
     font-size: 25px;
  margin-right: 30px;
 }
+
 .backgroun2{
  background: var(--color-dark-blue);
-padding: 178px 8% 63px;
+padding: 160px 8% 63px;
 }
 
 .home-text{
@@ -104,8 +103,53 @@ padding: 178px 8% 63px;
 }
 .lista-image{
     justify-content: space-between;
+   
 }
+
 .tituloh2{
-    color: var(--color-medium-blue)
+    color: var(--color-medium-blue);
+    font-size: 50px
 }
+
+.formulario {
+    padding: 140px 8% 63%;
+}
+.label{
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    width: 850px;
+}
+
+.backgroundfooter{
+    background:var(--color-dark-blue);
+padding: 140px 8% 63%;
+}
+
+.listafooter{
+    display: flex;
+    justify-content: space-between;
+    color:white;
+    font-size: 23px;
+}
+
+.carta{
+    height: 15px;
+}
+
+.redesocial l1{
+display: flex;
+flex-direction: row;
+margin: 0PX 20px;
+}
+
+
+
+
+
+
+
+
+
+
 
